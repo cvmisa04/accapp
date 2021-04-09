@@ -1,5 +1,5 @@
-const accounts =[
-  accounts:{
+[
+  {
     "id":"1",
     "name":"Milos",
     "phone":"1234",
